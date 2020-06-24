@@ -1,4 +1,10 @@
-## Summary
+## Personal Summary
+- Married with 1 daughter
+- Interests: analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
+- Hobbies: playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
+- Places lived: St. Cloud, WI -> Eau Claire, WI -> Minneapolis, MN -> Rochester, MN
+
+## Professional Summary
 - Dedicated data engineering professional with eight years' experience designing and maintaining data-driven solutions to complex business problems
 - Creator of automated, test-driven processes using the right tools and intuitive architecture decisions
 - Confident leader who brings exceptional interpersonal skills, a positive attitude, and the drive to advance business goals
@@ -47,6 +53,8 @@
  - Reverse-engineered flat files into a nightly-updating relational database to house property information
  - Wrote C# application to parse, encrypt, and email pay stubs
  - Vetted and advised selection of 3rd party document management and asset management systems
+ - Designed a data warehouse (Microsoft SQL Server & SSIS) for collection property info
+ - Supported JD Edwards Entreprise Resource Planning (ERP) software
 
 ### Software Engineer 
 #### Thomson Reuters, Eagan, MN | June 2012- May 2014
@@ -57,17 +65,24 @@
  - Created and managed tasks and estimates for user stories and defects during two-week iterations using agile project management software (Version One) 
  - Delivered tech-talks on implementing Git, MongoDB, Gradle, and Sonar
  - Led migration efforts from TFS version control to Git
-
+ - Design and deliver new functionality that adheres to platform and architectural guidelines
+ - Participate in planning sessions and provide estimates for stories and tasks
+ - Work with business users to define acceptance criteria
+ - Communicate timely and accurate status information to project leaders
 
 ### Database Administrator (Internship)
 #### Menards, Eau Claire, WI | May 2011 - May 2012
 
  - Worked closely with DBA team to maintain and support several database platforms including SQL Server (MSSQL), MySQL, Oracle, and Progress (OpenEdge RDBMS) 
  - Created ETL processes using SQL Server’s Integration Services (SSIS) and PowerShell to gather database usage and performance metrics from 6 different database platforms
- - Designed a MySQL database and wrote an application for the logging of database tasks 
+ - Created dynamic SQL Server Reporting Services (SSRS) reports to display metrics
+ - Designed a MySQL database and wrote an application for the centralized logging and reporting of database tasks 
  - Used SQL Server’s Integration Services to run ETL processes that update a Central Reporting Server between 6 different database platforms 
  - Wrote SSRS reports and integrated them into PHP database logging application 
  - Used ER-Win to model changes and additions to database structure
+ - Wrote PowerShell scripts to connect to MySQL, SQL Server, and Oracle databases
+ - Wrote scripts and queries to gather relevant data from system tables
+ - Designed website to interface the central database using HTML, CSS, JavaScript, and PHP
 
 
 ### IT Support Level 1 
@@ -76,6 +91,17 @@
  - Sustained and organized company-wide user maintenance requests in over 20 pieces of software (including Active Directory and security rights for all programs)
  - Worked with software suppliers to troubleshoot configuration and core processing issues
  - Created documentation and reference material for computer operating procedures and software maintenance routines for AS/400 mainframe
+ - Managing security and access for over 200 users in over 15 pieces of software
+ - Worked with Fiserv representatives to fix errors in daily processing procedures
+ - Scheduled colleagues for nightly computer operators
+ - Performed, organized, and maintained daily data backups
+ - Reformatted old computers with fresh disk images (using Acronis True Image)
+ - Ran daily core processing tasks on AS/400 mainframe
+ - Wrote documentation for user intake and departure processes
+ - Set up, maintained, and organized company's internal information on SharePoint site
+ - Applied updates and maintenance patches to data servers
+ - Provided on-call support to bankers and tellers in 26 bank branches
+ - Participated in 24x7 pager rotation to assist computer operators
 
 ### IT Support Night Computer Operator
 #### Citizens Community Federal - Altoona, WI | Nov 2009 - Sept 2010
@@ -88,8 +114,9 @@
  - Learned how to troubleshoot by contacting the software supplier (ITI) and following their instructions to solve problems on our end of the system
 
 ## Education and Certification
-### University of Wisconsin - Eau Claire 
-#### Master of Science in Data Science (MS) | Jan 2017 – Present
+### Graduate 
+#### University of Wisconsin - Eau Claire 
+#### Master of Science in Data Science (MS) | Jan 2017 – Present | Expected Graduation Dec 2021
 **Focus: Data Science**  
 **GPA: 4.0**  
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
@@ -99,7 +126,8 @@
  - Implemented common machine learning and optimization models
  - Built recommender systems in Python
 
-### University of Wisconsin - Eau Claire 
+### Undergraduate
+#### University of Wisconsin - Eau Claire 
 #### Bachelor of Business Administration (BA) | Aug 2007 – May 2012
 
 **Major: Information Systems (Comprehensive)**  
@@ -132,3 +160,5 @@
  - Travelers Scholarship Information Systems Scholarship | 2011 
  - Outstanding Senior Award | 2011  
  - Who's Who Among Students in American Universities and Colleges | 2011  
+ 
+## Documents
