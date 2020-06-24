@@ -6,8 +6,8 @@
 ## Work Experience
 
 ### IT Sr. Analyst/Programmer – Enterprise Data Warehousing
-Mayo Clinic, Rochester, MN  
-Nov 2016 – Present
+#### Mayo Clinic, Rochester, MN | Nov 2016 – Present
+
 
  - Built, administered, and developed custom solutions for multi-terabyte Administrative Data Warehouse using the Microsoft BI/DW stack
  - Led project to implement standardization and best practices in 200+ data integration processes across multiple ETL tools (Microsoft SSIS, IBM DataStage, and SAP Business Objects)
@@ -23,8 +23,7 @@ Nov 2016 – Present
 
 
 ### IT Analyst/Programmer - Business Intelligence
-Mayo Clinic, Rochester, MN  
-Nov 2014 – Nov 2016
+#### Mayo Clinic, Rochester, MN  | Nov 2014 – Nov 2016
 
  - Provided end-to-end solutions from data discovery to logical data mapping to dimensional modeling and data visualization
  - Developed custom data extraction scripts to pull data from non-traditional data sources (web services, SharePoint, Active Directory)
@@ -43,28 +42,25 @@ Nov 2014 – Nov 2016
 
 
 ### IT Analyst
-City of Rochester, MN  
-May 2014 – Nov 2014
+#### City of Rochester, MN  | May 2014 – Nov 2014
 
  - Reverse-engineered flat files into a nightly-updating relational database to house property information
  - Wrote C# application to parse, encrypt, and email pay stubs
  - Vetted and advised selection of 3rd party document management and asset management systems
 
 ### Software Engineer 
-Thomson Reuters, Eagan, MN  
-June 2012- May 2014
+#### Thomson Reuters, Eagan, MN | June 2012- May 2014
 
- - Built data-access layer for enterprise “artifiact service” platform 
+ - Built data-access layer for enterprise "Artifiact Service" platform 
  - Developed and unit tested features and web services for multi-tiered J2EE applications 
  - Executed transition, redesign, and delivery of a Java-based Hierarchy Management application based on Resource Description Framework (RDF)
  - Created and managed tasks and estimates for user stories and defects during two-week iterations using agile project management software (Version One) 
  - Delivered tech-talks on implementing Git, MongoDB, Gradle, and Sonar
- - Led migration efforts from TFS VC to Git
+ - Led migration efforts from TFS version control to Git
 
 
 ### Database Administrator (Internship)
-Menards, Eau Claire, WI  
-May 2011 - May 2012
+#### Menards, Eau Claire, WI | May 2011 - May 2012
 
  - Worked closely with DBA team to maintain and support several database platforms including SQL Server (MSSQL), MySQL, Oracle, and Progress (OpenEdge RDBMS) 
  - Created ETL processes using SQL Server’s Integration Services (SSIS) and PowerShell to gather database usage and performance metrics from 6 different database platforms
@@ -74,19 +70,15 @@ May 2011 - May 2012
  - Used ER-Win to model changes and additions to database structure
 
 
-
-
 ### IT Support Level 1 
-Citizens Community Federal - Altoona, WI  
-Sept 2010 - May 2011
+#### Citizens Community Federal - Altoona, WI | Sept 2010 - May 2011
 
  - Sustained and organized company-wide user maintenance requests in over 20 pieces of software (including Active Directory and security rights for all programs)
  - Worked with software suppliers to troubleshoot configuration and core processing issues
  - Created documentation and reference material for computer operating procedures and software maintenance routines for AS/400 mainframe
 
 ### IT Support Night Computer Operator
-Citizens Community Federal - Altoona, WI  
-Nov 2009 - Sept 2010
+#### Citizens Community Federal - Altoona, WI | Nov 2009 - Sept 2010
 
  - Learned to run an AS/400 program with minimum prior experience
  - Utilized Microsoft Server 2007 to operate server tasks
@@ -97,10 +89,9 @@ Nov 2009 - Sept 2010
 
 ## Education and Certification
 ### University of Wisconsin - Eau Claire 
-#### Master of Science in Data Science (MS)
-
-Jan 2017 – Present
-
+#### Master of Science in Data Science (MS) | Jan 2017 – Present
+**Focus: Data Science**  
+**GPA: 4.0**  
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
  - Engineered data projects using Amazon Web Services using EC2, S3, and Ubuntu
  - Created MapReduce solutions in Java and Python
@@ -109,19 +100,13 @@ Jan 2017 – Present
  - Built recommender systems in Python
 
 ### University of Wisconsin - Eau Claire 
-#### Bachelor of Business Administration (BA)
+#### Bachelor of Business Administration (BA) | Aug 2007 – May 2012
 
-Aug 2007 – May 2012
+**Major: Information Systems (Comprehensive)**  
+**Systems Development Emphasis**
+**Minor: Web Development**  
+**GPA: 3.73**  
 
-Major: Information Systems (Comprehensive)
-Systems Development Emphasis
-Minor: Web Development
-GPA: 3.73
-
- - 3M Foundation Information Systems Scholarship  
- - Travelers Scholarship Information Systems Scholarship  
- - Outstanding Senior Award 2011  
- - Who's Who Among Students in American Universities and Colleges 2011  
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
  - Learned about various applications of information technology as a member of the Association of Information Technology Professionals (Fall 2007)  
@@ -133,10 +118,17 @@ GPA: 3.73
  - Learned to diffuse arguments and help co-workers at Peer Helper Workshop  
 
 
-### Minnesota High Tech Association ACE Leadership Program
-
-2020
-
-### Microsoft Certified Solutions Expert: Data Management and Analytics
-
-2017
+## Certificates | Awards | Training
+### [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) | 2020
+ - ACE leaders are paired with a mentor, a senior leader in technology, to help guide their leadership journey throughout the 8 month course.  
+ - Coursework focuses on recognizing one’s leadership style, driving innovation, building a strong leadership brand, public speaking, negotiation, developing tech talent, inclusion in tech, and more.  
+ - Leaders work on small group strategy based project (supporting local non-profits through their work), which culminates with a presentation to MnTech’s Board of Directors.  
+ 
+### [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) | 2017
+ - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
+ 
+### Scholarships  
+ - 3M Foundation Information Systems Scholarship  | 2011
+ - Travelers Scholarship Information Systems Scholarship | 2011 
+ - Outstanding Senior Award | 2011  
+ - Who's Who Among Students in American Universities and Colleges | 2011  
