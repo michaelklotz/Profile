@@ -12,7 +12,7 @@
 ## Work Experience
 
 ### IT Sr. Analyst/Programmer – Enterprise Data Warehousing
-#### Mayo Clinic, Rochester, MN | Nov 2016 – Present
+#### [Mayo Clinic](https://jobs.mayoclinic.org) | Rochester, MN | Nov 2016 – Present
 
 
  - Built, administered, and developed custom solutions for multi-terabyte Administrative Data Warehouse using the Microsoft BI/DW stack
@@ -29,7 +29,7 @@
 
 
 ### IT Analyst/Programmer - Business Intelligence
-#### Mayo Clinic, Rochester, MN  | Nov 2014 – Nov 2016
+#### [Mayo Clinic](https://jobs.mayoclinic.org) | Rochester, MN  | Nov 2014 – Nov 2016
 
  - Provided end-to-end solutions from data discovery to logical data mapping to dimensional modeling and data visualization
  - Developed custom data extraction scripts to pull data from non-traditional data sources (web services, SharePoint, Active Directory)
@@ -48,7 +48,7 @@
 
 
 ### IT Analyst
-#### City of Rochester, MN  | May 2014 – Nov 2014
+#### [City of Rochester, MN](https://www.rochestermn.gov/departments/human-resources/employment)  | May 2014 – Nov 2014
 
  - Reverse-engineered flat files into a nightly-updating relational database to house property information
  - Wrote C# application to parse, encrypt, and email pay stubs
@@ -57,7 +57,7 @@
  - Supported JD Edwards Entreprise Resource Planning (ERP) software
 
 ### Software Engineer 
-#### Thomson Reuters, Eagan, MN | June 2012- May 2014
+#### [Thomson Reuters](https://www.thomsonreuters.com/en/careers.html) | Eagan, MN | June 2012- May 2014
 
  - Built data-access layer for enterprise "Artifiact Service" platform 
  - Developed and unit tested features and web services for multi-tiered J2EE applications 
@@ -71,7 +71,7 @@
  - Communicate timely and accurate status information to project leaders
 
 ### Database Administrator (Internship)
-#### Menards, Eau Claire, WI | May 2011 - May 2012
+#### [Menard, Inc.](https://www.menards.com/main/footer/company-information/menards-careers/c-14016.htm) | Eau Claire, WI | May 2011 - May 2012
 
  - Worked closely with DBA team to maintain and support several database platforms including SQL Server (MSSQL), MySQL, Oracle, and Progress (OpenEdge RDBMS) 
  - Created ETL processes using SQL Server’s Integration Services (SSIS) and PowerShell to gather database usage and performance metrics from 6 different database platforms
@@ -86,7 +86,7 @@
 
 
 ### IT Support Level 1 
-#### Citizens Community Federal - Altoona, WI | Sept 2010 - May 2011
+#### [Citizens Community Federal](https://www.ccf.us) | Altoona, WI | Sept 2010 - May 2011
 
  - Sustained and organized company-wide user maintenance requests in over 20 pieces of software (including Active Directory and security rights for all programs)
  - Worked with software suppliers to troubleshoot configuration and core processing issues
@@ -104,7 +104,7 @@
  - Participated in 24x7 pager rotation to assist computer operators
 
 ### IT Support Night Computer Operator
-#### Citizens Community Federal - Altoona, WI | Nov 2009 - Sept 2010
+#### [Citizens Community Federal](https://www.ccf.us)| Altoona, WI | Nov 2009 - Sept 2010
 
  - Learned to run an AS/400 program with minimum prior experience
  - Utilized Microsoft Server 2007 to operate server tasks
@@ -126,6 +126,9 @@ GPA: 4.0**
  - Implemented common machine learning and optimization models
  - Built recommender systems in Python
 
+[UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
+[UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
+
 ### Undergraduate
 **University of Wisconsin - Eau Claire  
 Bachelor of Business Administration (BA) | Aug 2007 – May 2012  Major: Information Systems (Comprehensive)    
@@ -143,6 +146,8 @@ GPA: 3.73**
  - Coached a recreational league 6th grade basketball team  
  - Learned to diffuse arguments and help co-workers at Peer Helper Workshop  
 
+[UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
+[UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
 
 ## Certificates | Awards | Training
 ### [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) | 2020
@@ -154,9 +159,9 @@ GPA: 3.73**
  - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
  
 ### Scholarships  
- - 3M Foundation Information Systems Scholarship  | 2011
+
+ - 3M Foundation Information Systems Scholarship | 2011
  - Travelers Scholarship Information Systems Scholarship | 2011 
  - Outstanding Senior Award | 2011  
  - Who's Who Among Students in American Universities and Colleges | 2011  
  
-## Documents
