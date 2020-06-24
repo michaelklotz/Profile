@@ -115,10 +115,10 @@
 
 ## Education and Certification
 ### Graduate 
-#### University of Wisconsin - Eau Claire 
-#### Master of Science in Data Science (MS) | Jan 2017 – Present | Expected Graduation Dec 2021
-**Focus: Data Science**  
-**GPA: 4.0**  
+**University of Wisconsin - Eau Claire  
+Master of Science in Data Science (MS) | Jan 2017 – Present | Expected Graduation Dec 2021  
+Focus: Data Science  
+GPA: 4.0**  
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
  - Engineered data projects using Amazon Web Services using EC2, S3, and Ubuntu
  - Created MapReduce solutions in Java and Python
@@ -127,13 +127,11 @@
  - Built recommender systems in Python
 
 ### Undergraduate
-#### University of Wisconsin - Eau Claire 
-#### Bachelor of Business Administration (BA) | Aug 2007 – May 2012
-
-**Major: Information Systems (Comprehensive)**  
-**Systems Development Emphasis**
-**Minor: Web Development**  
-**GPA: 3.73**  
+**University of Wisconsin - Eau Claire  
+Bachelor of Business Administration (BA) | Aug 2007 – May 2012  Major: Information Systems (Comprehensive)    
+Systems Development Emphasis  
+Minor: Web Development  
+GPA: 3.73**  
 
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
