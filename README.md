@@ -118,20 +118,19 @@ Systems Development Emphasis
 Minor: Web Development
 GPA: 3.73
 
- - 3M Foundation Information Systems Scholarship
- - Travelers Scholarship Information Systems Scholarship
- - Outstanding Senior Award 2011
- - Who's Who Among Students in American Universities and Colleges 2011
-  
- - Programmed detailed applications in Java Runtime Environment as a former computer science major
- - Used commands to manipulate information from Oracle databases
- - Learned about various applications of information technology as a member of the Association of Information Technology Professionals (Fall 2007)
- - Mastered Internet broadcasting technology as a radio show host for UWEC's Student Radio Initiative
- - Developed skills in the following Microsoft office programs
- - Experienced in writing agendas and meeting minutes
- - Developed and organized arguments for a group debate on capitalism
- - Coached a recreational league 6th grade basketball team
- - Learned to diffuse arguments and help co-workers at Peer Helper Workshop
+ - 3M Foundation Information Systems Scholarship  
+ - Travelers Scholarship Information Systems Scholarship  
+ - Outstanding Senior Award 2011  
+ - Who's Who Among Students in American Universities and Colleges 2011  
+ - Programmed detailed applications in Java Runtime Environment as a former computer science major  
+ - Used commands to manipulate information from Oracle databases  
+ - Learned about various applications of information technology as a member of the Association of Information Technology Professionals (Fall 2007)  
+ - Mastered Internet broadcasting technology as a radio show host for UWEC's Student Radio Initiative  
+ - Developed skills in the following Microsoft office programs  
+ - Experienced in writing agendas and meeting minutes  
+ - Developed and organized arguments for a group debate on capitalism  
+ - Coached a recreational league 6th grade basketball team  
+ - Learned to diffuse arguments and help co-workers at Peer Helper Workshop  
 
 
 ### Minnesota High Tech Association ACE Leadership Program
