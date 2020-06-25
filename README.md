@@ -139,7 +139,6 @@
  - Helped tellers solve computer-related problems remotely using Symantec PC Anywhere as an aid
  - Gained financial knowledge and skills in crunching numbers
  - Learned how to troubleshoot by contacting the software supplier (ITI) and following their instructions to solve problems on our end of the system
-
 ## Education and Certification
 ### Graduate  
 
@@ -149,7 +148,6 @@
 | Expected Graduation | *Dec 2021*                               |
 | Area Focus          | Data Science                           |
 | GPA                 | 4.0                                    |
-
 
 **Relevant Coursework**
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
@@ -185,7 +183,6 @@
 **Links**
  - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
  - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
-
 ## Certificates | Awards | Training
 ### Certificates
  - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) \| 2017
