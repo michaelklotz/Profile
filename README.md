@@ -13,8 +13,7 @@
 ## Work Experience
 
 ### IT Sr. Analyst/Programmer
-| | | |
-|-|-|-|
+
 | Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
 | Job Function | Enterprise Data Warehousing & Database Administration |
 | Unit | Operational Data Services, Unified Data Platform |
