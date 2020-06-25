@@ -34,8 +34,7 @@
 
 
 ### IT Analyst/Programmer
-| | | |
-|-|-|-|
+
 | Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
 | Job Function |  Business Intelligence |
 | Unit | Global Business Solutions|
@@ -59,8 +58,7 @@
 
 
 ### IT Analyst
-| | | |
-|-|-|-|
+
 | Employer| **[City of Rochester, MN](https://www.rochestermn.gov/departments/human-resources/employment)** |
 | Location| Rochester, MN |
 | Dates |  May 2014 – Nov 2014 |
@@ -72,8 +70,7 @@
  - Supported JD Edwards Entreprise Resource Planning (ERP) software
 
 ### Software Engineer 
-| | | |
-|-|-|-|
+
 | Employer| **[Thomson Reuters](https://www.thomsonreuters.com/en/careers.html)** |
 | Location| Eagan, MN |
 | Dates |  June 2012- May 2014 |
@@ -90,8 +87,7 @@
  - Communicate timely and accurate status information to project leaders
 
 ### Database Administrator Intern
-| | | |
-|-|-|-|
+
 | Employer| **[Menard, Inc.](https://www.menards.com/main/footer/company-information/menards-careers/c-14016.htm)** |
 | Location| Eau Claire, WI |
 | Dates |  May 2011 - May 2012 |
@@ -108,8 +104,7 @@
  - Designed website to interface the central database using HTML, CSS, JavaScript, and PHP
 
 ### IT Support Level 1 
-| | | |
-|-|-|-|
+
 | Employer| **[Citizens Community Federal](https://www.ccf.us)** |
 | Location| Altoona, WI |
 | Dates | Sept 2010 - May 2011 |
@@ -130,8 +125,7 @@
  - Participated in 24x7 pager rotation to assist computer operators
 
 ### IT Support Night Computer Operator
-| | | |
-|-|-|-|
+
 | Employer| **[Citizens Community Federal](https://www.ccf.us)** |
 | Location| Altoona, WI |
 | Dates | Nov 2009 - Sept 2010 |
@@ -145,8 +139,7 @@
 
 ## Education and Certification
 ### Graduate  
-| | | |
-|-|-|-|
+
 | Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
 | Degree              | Master of Science in Data Science (MS) |
 | Dates               | Jan 2017 – *Present*                     |
@@ -168,8 +161,7 @@
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
 
 ### Undergraduate
-| | | |
-|-|-|-|
+
 | Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
 | Degree              | Bachelor of Business Administration (BA) |
 | Dates               | Aug 2007 – May 2012                    |                          |
