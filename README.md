@@ -1,3 +1,4 @@
+
 ## About Me
 - Married with 1 daughter
 - Interests: analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
@@ -11,9 +12,14 @@
 
 ## Work Experience
 
-### IT Sr. Analyst/Programmer – Enterprise Data Warehousing
-#### [Mayo Clinic](https://jobs.mayoclinic.org) | Rochester, MN | Nov 2016 – Present
-
+### IT Sr. Analyst/Programmer
+| | | |
+|-|-|-|
+| Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
+| Job Function | Enterprise Data Warehousing & Database Administration |
+| Unit | Operational Data Services, Unified Data Platform |
+| Location| Rochester, MN |
+| Dates |  Nov 2016 – *Present* |
 
  - Built, administered, and developed custom solutions for multi-terabyte Administrative Data Warehouse using the Microsoft BI/DW stack
  - Led project to implement standardization and best practices in 200+ data integration processes across multiple ETL tools (Microsoft SSIS, IBM DataStage, and SAP Business Objects)
@@ -28,8 +34,14 @@
  - Audited database permissions and curated optimal database settings across environments 
 
 
-### IT Analyst/Programmer - Business Intelligence
-#### [Mayo Clinic](https://jobs.mayoclinic.org) | Rochester, MN  | Nov 2014 – Nov 2016
+### IT Analyst/Programmer
+| | | |
+|-|-|-|
+| Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
+| Job Function |  Business Intelligence |
+| Unit | Global Business Solutions|
+| Location| Rochester, MN |
+| Dates |  Nov 2014 – Nov 2016 |
 
  - Provided end-to-end solutions from data discovery to logical data mapping to dimensional modeling and data visualization
  - Developed custom data extraction scripts to pull data from non-traditional data sources (web services, SharePoint, Active Directory)
@@ -48,7 +60,11 @@
 
 
 ### IT Analyst
-#### [City of Rochester, MN](https://www.rochestermn.gov/departments/human-resources/employment)  | May 2014 – Nov 2014
+| | | |
+|-|-|-|
+| Employer| **[City of Rochester, MN](https://www.rochestermn.gov/departments/human-resources/employment)** |
+| Location| Rochester, MN |
+| Dates |  May 2014 – Nov 2014 |
 
  - Reverse-engineered flat files into a nightly-updating relational database to house property information
  - Wrote C# application to parse, encrypt, and email pay stubs
@@ -57,7 +73,11 @@
  - Supported JD Edwards Entreprise Resource Planning (ERP) software
 
 ### Software Engineer 
-#### [Thomson Reuters](https://www.thomsonreuters.com/en/careers.html) | Eagan, MN | June 2012- May 2014
+| | | |
+|-|-|-|
+| Employer| **[Thomson Reuters](https://www.thomsonreuters.com/en/careers.html)** |
+| Location| Eagan, MN |
+| Dates |  June 2012- May 2014 |
 
  - Built data-access layer for enterprise "Artifiact Service" platform 
  - Developed and unit tested features and web services for multi-tiered J2EE applications 
@@ -70,8 +90,12 @@
  - Work with business users to define acceptance criteria
  - Communicate timely and accurate status information to project leaders
 
-### Database Administrator (Internship)
-#### [Menard, Inc.](https://www.menards.com/main/footer/company-information/menards-careers/c-14016.htm) | Eau Claire, WI | May 2011 - May 2012
+### Database Administrator Intern
+| | | |
+|-|-|-|
+| Employer| **[Menard, Inc.](https://www.menards.com/main/footer/company-information/menards-careers/c-14016.htm)** |
+| Location| Eau Claire, WI |
+| Dates |  May 2011 - May 2012 |
 
  - Worked closely with DBA team to maintain and support several database platforms including SQL Server (MSSQL), MySQL, Oracle, and Progress (OpenEdge RDBMS) 
  - Created ETL processes using SQL Server’s Integration Services (SSIS) and PowerShell to gather database usage and performance metrics from 6 different database platforms
@@ -84,9 +108,12 @@
  - Wrote scripts and queries to gather relevant data from system tables
  - Designed website to interface the central database using HTML, CSS, JavaScript, and PHP
 
-
 ### IT Support Level 1 
-#### [Citizens Community Federal](https://www.ccf.us) | Altoona, WI | Sept 2010 - May 2011
+| | | |
+|-|-|-|
+| Employer| **[Citizens Community Federal](https://www.ccf.us)** |
+| Location| Altoona, WI |
+| Dates | Sept 2010 - May 2011 |
 
  - Sustained and organized company-wide user maintenance requests in over 20 pieces of software (including Active Directory and security rights for all programs)
  - Worked with software suppliers to troubleshoot configuration and core processing issues
@@ -104,7 +131,11 @@
  - Participated in 24x7 pager rotation to assist computer operators
 
 ### IT Support Night Computer Operator
-#### [Citizens Community Federal](https://www.ccf.us)| Altoona, WI | Nov 2009 - Sept 2010
+| | | |
+|-|-|-|
+| Employer| **[Citizens Community Federal](https://www.ccf.us)** |
+| Location| Altoona, WI |
+| Dates | Nov 2009 - Sept 2010 |
 
  - Learned to run an AS/400 program with minimum prior experience
  - Utilized Microsoft Server 2007 to operate server tasks
@@ -114,11 +145,18 @@
  - Learned how to troubleshoot by contacting the software supplier (ITI) and following their instructions to solve problems on our end of the system
 
 ## Education and Certification
-### Graduate 
-**University of Wisconsin - Eau Claire  
-Master of Science in Data Science (MS) | Jan 2017 – Present | Expected Graduation Dec 2021  
-Focus: Data Science  
-GPA: 4.0**  
+### Graduate  
+| | | |
+|-|-|-|
+| Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
+| Degree              | Master of Science in Data Science (MS) |
+| Dates               | Jan 2017 – *Present*                     |
+| Expected Graduation | *Dec 2021*                               |
+| Area Focus          | Data Science                           |
+| GPA                 | 4.0                                    |
+
+
+**Relevant Coursework**
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
  - Engineered data projects using Amazon Web Services using EC2, S3, and Ubuntu
  - Created MapReduce solutions in Java and Python
@@ -126,42 +164,55 @@ GPA: 4.0**
  - Implemented common machine learning and optimization models
  - Built recommender systems in Python
 
-[UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
-[UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
+**Links**
+ - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
+ - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
 
 ### Undergraduate
-**University of Wisconsin - Eau Claire  
-Bachelor of Business Administration (BA) | Aug 2007 – May 2012  Major: Information Systems (Comprehensive)    
-Systems Development Emphasis  
-Minor: Web Development  
-GPA: 3.73**  
+| | | |
+|-|-|-|
+| Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
+| Degree              | Bachelor of Business Administration (BA) |
+| Dates               | Aug 2007 – May 2012                    |                          |
+| Major               | Information Systems (Comprehensive)    |
+| Emphasis | Systems Development |
+| Minor| Web Development |
+| GPA                 | 3.73                                    |
 
+
+**Relevant Coursework**
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
- - Learned about various applications of information technology as a member of the Association of Information Technology Professionals (Fall 2007)  
- - Mastered Internet broadcasting technology as a radio show host for UWEC's Student Radio Initiative  
- - Developed skills in the following Microsoft office programs  
+ - Designed and reconstructed databases
+ - Learned about various applications of information technology as a member of the [Association of Information Technology Professionals](https://uwec.presence.io/organization/association-of-information-technology-professionals)
  - Experienced in writing agendas and meeting minutes  
- - Developed and organized arguments for a group debate on capitalism  
- - Coached a recreational league 6th grade basketball team  
  - Learned to diffuse arguments and help co-workers at Peer Helper Workshop  
 
-[UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
-[UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
+**Links**
+ - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
+ - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
 
 ## Certificates | Awards | Training
-### [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) | 2020
- - ACE leaders are paired with a mentor, a senior leader in technology, to help guide their leadership journey throughout the 8 month course.  
- - Coursework focuses on recognizing one’s leadership style, driving innovation, building a strong leadership brand, public speaking, negotiation, developing tech talent, inclusion in tech, and more.  
- - Leaders work on small group strategy based project (supporting local non-profits through their work), which culminates with a presentation to MnTech’s Board of Directors.  
+### Certificates
+ - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) | 2017
+   - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
  
-### [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) | 2017
- - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
+ ### Training
+ - [Intertech Complete Spring 3.0 Framework](https://www.intertech.com/training/java/frameworks/spring) | 2012
+   - "Learn to build enterprise applications that are scalable, mobile, secure and robust in a Spring Framework. Our Spring Framework training empowers software developers to solve concrete business problems by mapping application-level issues to Spring-centric solutions. Find continued training description below our Course Finder lower on this page."
+
+ -  [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) | 2020
+    - ACE leaders are paired with a mentor, a senior leader in technology, to help guide their leadership journey throughout the 8 month course.  
+    - Coursework focuses on recognizing one’s leadership style, driving innovation, building a strong leadership brand, public speaking, negotiation, developing tech talent, inclusion in tech, and more.  
+    - Leaders work on small group strategy based project (supporting local non-profits through their work), which culminates with a presentation to MnTech’s Board of Directors.  
  
+
 ### Scholarships  
 
  - 3M Foundation Information Systems Scholarship | 2011
- - Travelers Scholarship Information Systems Scholarship | 2011 
- - Outstanding Senior Award | 2011  
- - Who's Who Among Students in American Universities and Colleges | 2011  
+ - Travelers Scholarship Information Systems Scholarship | 2011
+
+### Awards
+ - Outstanding Senior Award | 2011
+ - [Who's Who Among Students in American Universities and Colleges](http://www.whoswhoamongstudents.com) | 2011
  
