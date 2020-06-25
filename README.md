@@ -36,7 +36,6 @@
  - Built and installed SQL Server database instances for data warehouse
  - Audited database permissions and curated optimal database settings across environments 
 
-
 ### IT Analyst/Programmer
 
 | Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
@@ -59,7 +58,6 @@
  - Created and managed stories, tasks, and estimates for agile project based on end user requirements
  - Supported data warehouse by writing documentation and participating in 24x7 on-call rotation
  - Improved logging and auditing of automated processes and SQL Agent jobs
-
 
 ### IT Analyst
 
@@ -140,6 +138,7 @@
  - Helped tellers solve computer-related problems remotely using Symantec PC Anywhere as an aid
  - Gained financial knowledge and skills in crunching numbers
  - Learned how to troubleshoot by contacting the software supplier (ITI) and following their instructions to solve problems on our end of the system
+ 
 ## Education and Certification
 ### Graduate  
 
@@ -172,7 +171,6 @@
 | Minor| Web Development |
 | GPA                 | 3.73                                    |
 
-
 **Relevant Coursework**
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
@@ -184,7 +182,9 @@
 **Links**
  - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
  - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
+ 
 ## Certificates | Awards | Training
+
 ### Certificates
  - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) \| 2017
    - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
@@ -198,7 +198,6 @@
     - Coursework focuses on recognizing one’s leadership style, driving innovation, building a strong leadership brand, public speaking, negotiation, developing tech talent, inclusion in tech, and more.  
     - Leaders work on small group strategy based project (supporting local non-profits through their work), which culminates with a presentation to MnTech’s Board of Directors.  
  
-
 ### Scholarships  
 
  - 3M Foundation Information Systems Scholarship \| 2011
