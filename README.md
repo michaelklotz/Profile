@@ -188,14 +188,14 @@
 
 ## Certificates | Awards | Training
 ### Certificates
- - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) | 2017
+ - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) \| 2017
    - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
  
  ### Training
- - [Intertech Complete Spring 3.0 Framework](https://www.intertech.com/training/java/frameworks/spring) | 2012
+ - [Intertech Complete Spring 3.0 Framework](https://www.intertech.com/training/java/frameworks/spring) \| 2012
    - "Learn to build enterprise applications that are scalable, mobile, secure and robust in a Spring Framework. Our Spring Framework training empowers software developers to solve concrete business problems by mapping application-level issues to Spring-centric solutions. Find continued training description below our Course Finder lower on this page."
 
- -  [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) | 2020
+ -  [Minnesota High Tech Association ACE Leadership Program](https://mntech.org/talent/ace-leadership/) \| 2020
     - ACE leaders are paired with a mentor, a senior leader in technology, to help guide their leadership journey throughout the 8 month course.  
     - Coursework focuses on recognizing one’s leadership style, driving innovation, building a strong leadership brand, public speaking, negotiation, developing tech talent, inclusion in tech, and more.  
     - Leaders work on small group strategy based project (supporting local non-profits through their work), which culminates with a presentation to MnTech’s Board of Directors.  
@@ -203,10 +203,10 @@
 
 ### Scholarships  
 
- - 3M Foundation Information Systems Scholarship | 2011
- - Travelers Scholarship Information Systems Scholarship | 2011
+ - 3M Foundation Information Systems Scholarship \| 2011
+ - Travelers Scholarship Information Systems Scholarship \| 2011
 
 ### Awards
- - Outstanding Senior Award | 2011
- - [Who's Who Among Students in American Universities and Colleges](http://www.whoswhoamongstudents.com) | 2011
+ - Outstanding Senior Award \| 2011
+ - [Who's Who Among Students in American Universities and Colleges](http://www.whoswhoamongstudents.com) \| 2011
  
