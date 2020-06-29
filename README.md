@@ -189,7 +189,7 @@
  - [Microsoft Certified Solutions Expert: Data Management and Analytics](https://www.microsoft.com/en-us/learning/mcse-data-management-analytics.aspx) \| 2017
    - Demonstrated broad skill sets in SQL administration, building enterprise-scale data solutions, and leveraging business intelligence data – both on-premises and in cloud environments.
  
- ### Training
+### Training
  - [Intertech Complete Spring 3.0 Framework](https://www.intertech.com/training/java/frameworks/spring) \| 2012
    - "Learn to build enterprise applications that are scalable, mobile, secure and robust in a Spring Framework. Our Spring Framework training empowers software developers to solve concrete business problems by mapping application-level issues to Spring-centric solutions. Find continued training description below our Course Finder lower on this page."
 
