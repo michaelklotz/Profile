@@ -149,7 +149,7 @@
 | Area Focus          | Data Science                           |
 | GPA                 | 4.0                                    |
 
-**Relevant Coursework**
+**Summary**
  - Ran data projects with Hortonworks Docker Sandbox (HDP) on Azure Cloud
  - Engineered data projects using Amazon Web Services using EC2, S3, and Ubuntu
  - Created MapReduce solutions in Java and Python
@@ -171,7 +171,7 @@
 | Minor| Web Development |
 | GPA                 | 3.73                                    |
 
-**Relevant Coursework**
+**Summary**
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
  - Designed and reconstructed databases
@@ -207,3 +207,42 @@
  - Outstanding Senior Award \| 2011
  - [Who's Who Among Students in American Universities and Colleges](http://www.whoswhoamongstudents.com) \| 2011
  
+## Relevant Courses
+
+### Graduate
+
+|Course Name                                          |Term          |Grade|
+|-----------------------------------------------------|--------------|-----|
+|Capstone                                             |Fall 20-21           |TBD  |
+|Ethics of Data Science                               |Summer 20-21           |TBD  |
+|Communicating About Data                             |Spring 20-21           |TBD  |
+|Visualization and Unstructured Data Analysis         |Fall 19-20           |TBD  |
+|Data Science and Strategic Decision Making           |Summer 19-20     |TBD  |
+|Prescriptive Analytics                               |Spring 19-20     |A    |
+|Data Mining and Machine Learning                     |Fall 19-20      |A    |
+|Big Data: High Performance Computing                 |Summer 18-19     |A    |
+|Statistical Methods                                  |Spring 18-19     |A    |
+|Programming for Data Science                         |Fall 18-19       |A    |
+|Database Warehousing                                 |Summer 17-18     |A    |
+|Foundations of Data Science                          |Spring 17-18     |A    |
+
+### Undergraduate
+
+|Course Name                                          |Term          |Grade|
+|-----------------------------------------------------|--------------|-----|
+|Web Design and Development                           |Spring 11-12  |A    |
+|Seminar in Information Systems                       |Spring 11-12  |A    |
+|Foundations of Computer Science                      |Fall 07-08    |B    |
+|Web Page Design                                      |Fall 10-11    |A    |
+|Business Software Engineering                        |Fall 10-11    |A-   |
+|Advanced System Design and Development               |Spring 10-11  |A    |
+|Distributed Systems Development                      |Spring 10-11  |A-   |
+|Introduction To Web Programming                      |Fall 11-12    |A    |
+|Web Database Design and Implementation               |Fall 11-12    |A    |
+|Object-Oriented Systems                              |Fall 11-12    |A    |
+|Database Management Systems                          |Spring 09-10  |A    |
+|Data Communication Networks                          |Spring 09-10  |A    |
+|Calculus I                                           |Fall 07-08    |B    |
+|Fundamentals of Business Programming                 |Fall 09-10    |A-   |
+|Systems Analysis and Design                          |Fall 09-10    |A    |
+|Information Systems In Business                      |Spring 08-09  |A    |
