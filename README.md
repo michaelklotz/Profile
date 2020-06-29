@@ -5,11 +5,17 @@
 
 ## About Me
 - Married with 1 daughter
-- **Interests:** analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
-- **Hobbies:** playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
-- **Places lived:** St. Cloud, WI -> Eau Claire, WI -> Minneapolis, MN -> Eagan, MN -> Rochester, MN
-- **Born**: 1989
-- ***Seeking relocation to Twin Cities Area (East Metro)***
+- *Interests:* analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
+- *Hobbies:* playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
+- *Places lived:* 
+   - St. Cloud, WI
+   - Eau Claire, WI 
+   - Minneapolis, MN 
+   - Eagan, MN 
+   - Rochester, MN
+   - *Currently seeking relocation to Twin Cities Area (East Metro)*
+- *Born*: 1989
+
 
 ## Contact Info
  - Email: michael@theklotzes.com
