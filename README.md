@@ -9,6 +9,11 @@
 - **Hobbies:** playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
 - **Places lived:** St. Cloud, WI -> Eau Claire, WI -> Minneapolis, MN -> Eagan, MN -> Rochester, MN
 - **Born**: 1989
+- ***Seeking relocation to Twin Cities Area (East Metro)***
+
+## Contact Info
+ - Email: michael@theklotzes.com
+ - LinkedIn: https://www.linkedin.com/in/klotzmichael/
 
 ## Professional Summary
 - Dedicated data engineering professional with eight years' experience designing and maintaining data-driven solutions to complex business problems
