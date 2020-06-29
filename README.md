@@ -8,6 +8,7 @@
 - **Interests:** analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
 - **Hobbies:** playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
 - **Places lived:** St. Cloud, WI -> Eau Claire, WI -> Minneapolis, MN -> Eagan, MN -> Rochester, MN
+- **Born**: 1989
 
 ## Professional Summary
 - Dedicated data engineering professional with eight years' experience designing and maintaining data-driven solutions to complex business problems
