@@ -209,7 +209,9 @@
 
 ## Technical Competencies
 
-### Programming Languages
+ - Denoted with the year I last worked with them...
+ 
+### Programming Languages 
 
 | [Python](http://www.python.org/) | 2020
 | [R](https://www.r-project.org/) | 2020
@@ -230,7 +232,7 @@
 | [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2015
 | [Batch File Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2013
 | [XML](http://en.wikipedia.org/wiki/XML) | 2020
-| [JSON](http://en.wikipedia.org/wiki/JSON) | 20120
+| [JSON](http://en.wikipedia.org/wiki/JSON) | 2020
 | [XSLT](http://en.wikipedia.org/wiki/XSLT) | 2013
 | [SPARQL](http://en.wikipedia.org/wiki/SPARQL) | 2014
 | [Scala](http://www.scala-lang.org/) | 2020
