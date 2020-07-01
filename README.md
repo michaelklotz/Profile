@@ -18,8 +18,8 @@
 
 
 ## Contact Info
- - Email: michael@theklotzes.com
- - LinkedIn: https://www.linkedin.com/in/klotzmichael/
+ - *Email*: michael@theklotzes.com
+ - *LinkedIn*: [https://www.linkedin.com/in/klotzmichael/](https://www.linkedin.com/in/klotzmichael/)
 
 ## Professional Summary
 - Dedicated data engineering professional with eight years' experience designing and maintaining data-driven solutions to complex business problems
