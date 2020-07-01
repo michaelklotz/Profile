@@ -221,7 +221,7 @@
 
 ## Technical Competencies
 
- - Denoted with the year I last worked with them...
+ - Technical Competencies are listed with the year I last used them in my day-to-day work...
  
 ### Programming Languages 
 
