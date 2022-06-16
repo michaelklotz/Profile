@@ -1,4 +1,5 @@
 # Michael Klotz Profile Site
+
 ## Table of Contents
 * TOC
 {:toc}
@@ -16,6 +17,7 @@
    - Prescott, WI
 - *Born*: 1989
 
+![klotz family 2022](./klotz-family-2022.jpeg)
 
 ## Contact Info
  - *Email*: michael@theklotzes.com
