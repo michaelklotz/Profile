@@ -4,7 +4,7 @@
 {:toc}
 
 ## About Me
-- Married with 1 daughter
+- Married, 2 daughters
 - *Interests:* analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
 - *Hobbies:* playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
 - *Places lived:* 
@@ -13,7 +13,7 @@
    - Minneapolis, MN 
    - Eagan, MN 
    - Rochester, MN
-   - *Currently seeking relocation to Twin Cities Area (East Metro)*
+   - Prescott, WI
 - *Born*: 1989
 
 
@@ -22,11 +22,31 @@
  - *LinkedIn*: [https://www.linkedin.com/in/klotzmichael/](https://www.linkedin.com/in/klotzmichael/)
 
 ## Professional Summary
-- Dedicated data engineering professional with eight years' experience designing and maintaining data-driven solutions to complex business problems
+- Dedicated data engineering professional with ten years' experience designing and maintaining data-driven solutions to complex business problems
 - Creator of automated, test-driven processes using the right tools and intuitive architecture decisions
 - Confident leader who brings exceptional interpersonal skills, a positive attitude, and the drive to advance business goals
 
 ## Work Experience
+
+### Sr. Data Engineer
+
+| Employer| **[Travelers Insurance](https://www.travelers.com/)** |
+| Job Function | Cloud Data Engineering, Technical Lead | 
+| Unit | Data Foundations, Data Lakers |
+| Location | St. Paul, MN |
+| Dates |  Sep 2020 – *Present* |
+
+ - Migrated data pipelines from on-premises Hadoop to AWS Cloud
+ - Rewrote and refactored workflows using AWS Step Function, Lambda, and Elastic Map Reduce (EMR)
+ - Built and supported Databricks data pipelines
+ - Built terraform IAC modules and shared components
+ - Architected custom job orchestration framework to checkpoint and restart workflows efficiently
+ - Configured and maintained AWS IAM roles and policies
+ - Created data models and corresponding parsing scripts to translate raw data into SQL and parquet formats
+ - Built database schemas and processes to transfer data between AWS Glue and Snowflake
+ - Built production support dashboards in DataDog, MongoDB Atlas Charts, and Kibana
+ - Led agile team by conducting meetings (standup, refinement), creating documentation, and training new team members
+
 
 ### IT Sr. Analyst/Programmer
 
@@ -34,7 +54,7 @@
 | Job Function | Enterprise Data Warehousing & Database Administration |
 | Unit | Operational Data Services, Unified Data Platform |
 | Location| Rochester, MN |
-| Dates |  Nov 2016 – *Present* |
+| Dates |  Nov 2016 – Sep 2020 |
 
  - Built, administered, and developed custom solutions for multi-terabyte Administrative Data Warehouse using the Microsoft BI/DW stack
  - Led project to implement standardization and best practices in 200+ data integration processes across multiple ETL tools (Microsoft SSIS, IBM DataStage, and SAP Business Objects)
@@ -156,8 +176,7 @@
 
 | Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
 | Degree              | Master of Science in Data Science (MS) |
-| Dates               | Jan 2017 – *Present*                     |
-| Expected Graduation | *Dec 2021*                               |
+| Dates               | Jan 2017 – May 2022                     |
 | Area Focus          | Data Science                           |
 | GPA                 | 4.0                                    |
 
@@ -170,6 +189,7 @@
  - Built recommender systems in Python
 
 **Links**
+ - [Transcript](https://github.com/michaelklotz/Michael-Klotz-Profile/blob/gh-pages/mklotz%20uwec%20grad%20transcript.pdf)
  - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
 
@@ -343,20 +363,20 @@
 
 |Course Name                                          |Term          |Grade|
 |-----------------------------------------------------|--------------|-----|
-|Capstone                                             |Fall 20-21           |TBD  |
-|Ethics of Data Science                               |Summer 20-21           |TBD  |
-|Communicating About Data                             |Spring 20-21           |TBD  |
-|Visualization and Unstructured Data Analysis         |Fall 19-20           |TBD  |
-|Data Science and Strategic Decision Making           |Summer 19-20     |TBD  |
-|Prescriptive Analytics                               |Spring 19-20     |A    |
-|Data Mining and Machine Learning                     |Fall 19-20      |A    |
-|Big Data: High Performance Computing                 |Summer 18-19     |A    |
-|Statistical Methods                                  |Spring 18-19     |A    |
-|Programming for Data Science                         |Fall 18-19       |A    |
-|Database Warehousing                                 |Summer 17-18     |A    |
-|Foundations of Data Science                          |Spring 17-18     |A    |
+|Capstone                                             |Fall 20-21    |A  |
+|Ethics of Data Science                               |Summer 20-21  |A  |
+|Communicating About Data                             |Spring 20-21  |A  |
+|Visualization and Unstructured Data Analysis         |Fall 19-20    |A  |
+|Data Science and Strategic Decision Making           |Summer 19-20  |A  |
+|Prescriptive Analytics                               |Spring 19-20  |A  |
+|Data Mining and Machine Learning                     |Fall 19-20    |A  |
+|Big Data: High Performance Computing                 |Summer 18-19  |A  |
+|Statistical Methods                                  |Spring 18-19  |A  |
+|Programming for Data Science                         |Fall 18-19    |A  |
+|Database Warehousing                                 |Summer 17-18  |A  |
+|Foundations of Data Science                          |Spring 17-18  |A  |
 
-### Undergraduate
+## Undergraduate
 
 |Course Name                                          |Term          |Grade|
 |-----------------------------------------------------|--------------|-----|
