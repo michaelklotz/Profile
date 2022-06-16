@@ -28,7 +28,7 @@
 
 ## Work Experience
 
-### Sr. Data Engineer
+### Sr. Data Engineer (Tech Lead)
 
 | Employer| **[Travelers Insurance](https://www.travelers.com/)** |
 | Job Function | Cloud Data Engineering, Technical Lead | 
@@ -44,7 +44,7 @@
  - Configured and maintained AWS IAM roles and policies
  - Created data models and corresponding parsing scripts to translate raw data into SQL and parquet formats
  - Built database schemas and processes to transfer data between AWS Glue and Snowflake
- - Built production support dashboards in DataDog, MongoDB Atlas Charts, and Kibana
+ - Built production support dashboards in DataDog, MongoDB Atlas, and Kibana
  - Led agile team by conducting meetings (standup, refinement), creating documentation, and training new team members
 
 
@@ -189,9 +189,9 @@
  - Built recommender systems in Python
 
 **Links**
- - [Transcript](https://github.com/michaelklotz/Michael-Klotz-Profile/blob/gh-pages/mklotz%20uwec%20grad%20transcript.pdf)
  - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
+ - [Transcript](https://github.com/michaelklotz/Michael-Klotz-Profile/blob/gh-pages/mklotz-uwec-grad-transcript.pdf)
 
 ### Undergraduate
 
@@ -214,7 +214,8 @@
 **Links**
  - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
  - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
- 
+ - [Transcript](https://github.com/michaelklotz/Michael-Klotz-Profile/blob/gh-pages/mklotz-uwec-undergrad-transcript.pdf)
+
 ## Certificates | Awards | Training
 
 ### Certificates
@@ -245,116 +246,129 @@
  - \*\*Technical Competencies are listed with the year I last used them in my day-to-day work...
  
 ### Programming Languages 
-
-| [Python](http://www.python.org/) | 2020
-| [R](https://www.r-project.org/) | 2020
+| Language | Last Used (Year) |
+|----------|----------------------|
+| [Python](http://www.python.org/) | 2022
+| [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) | 2022
+| [SQL](http://en.wikipedia.org/wiki/SQL) | 2022
+| [Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) | 2022
+| [PowerShell Scripting](http://en.wikipedia.org/wiki/Windows_PowerShell) | 2022
+| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2022  
+| [R](https://www.r-project.org/) | 2021
+| [XML](http://en.wikipedia.org/wiki/XML) | 2022
+| [JSON](http://en.wikipedia.org/wiki/JSON) | 2022
+| [DOS Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2022
+| [Scala](http://www.scala-lang.org/) | 2020
 | [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2020
-| [SQL](http://en.wikipedia.org/wiki/SQL) | 2020
-| [Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) | 2020
-| [PowerShell Scripting](http://en.wikipedia.org/wiki/Windows_PowerShell) | 2020
-| [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) | 2014
+| [HTML / HTML 5](http://en.wikipedia.org/wiki/HTML5) | 2020
+| [PHP](http://php.net/) | 2016
 | [Groovy](http://groovy.codehaus.org/) | 2014
 | [Flex](http://www.adobe.com/products/flex.html) | 2014
 | [ActionScript](http://en.wikipedia.org/wiki/ActionScript) | 2014
 | [JavaScript](http://en.wikipedia.org/wiki/JavaScript) | 2014
-| [HTML / HTML 5](http://en.wikipedia.org/wiki/HTML5) | 2020
 | [CSS / CSS3](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) | 2014
-| [PHP](http://php.net/) | 2016
+| [SPARQL](http://en.wikipedia.org/wiki/SPARQL) | 2014
+| [XSLT](http://en.wikipedia.org/wiki/XSLT) | 2013
 | [PERL](http://www.perl.org/) | 2010
 | [Visual Basic](http://en.wikipedia.org/wiki/Visual_Basic) | 2009
-| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2015
-| [Batch File Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2013
-| [XML](http://en.wikipedia.org/wiki/XML) | 2020
-| [JSON](http://en.wikipedia.org/wiki/JSON) | 2020
-| [XSLT](http://en.wikipedia.org/wiki/XSLT) | 2013
-| [SPARQL](http://en.wikipedia.org/wiki/SPARQL) | 2014
-| [Scala](http://www.scala-lang.org/) | 2020
 | [C++](http://en.wikipedia.org/wiki/C%2B%2B) | 2009
 
-### Frameworks
-
-| [Pig](https://pig.apache.org) | 2019 |
-| [Spark](http://spark.apache.org) | 2019 |
-| [Hive](https://hive.apache.org) | 2019 |
-| [LINQ](http://msdn.microsoft.com/en-us/library/bb397926.aspx) | 2020 |
-| [Hadoop](http://hadoop.apache.org/) | 2019 |
-| [MongoDB](http://www.mongodb.org/) | 2015 |
+### Platforms & Frameworks
+| Platform/Framework | Last Used (Year) |
+|----------|----------------------|
+| [Amazon Web Services (AWS)](https://aws.amazon.com/) | 2022 
+| [Databricks](https://databricks.com/) | 2022 |
+| [Snowflake](https://www.snowflake.com/) | 2022 |
+| [PySpark \| Spark](http://spark.apache.org) | 2022 
+| [Hadoop](http://hadoop.apache.org/) | 2022 |
+| [MongoDB](http://www.mongodb.org/) | 2022 |
+| [Pivotal Cloud Foundry (PCF)](https://cloud.google.com/architecture/cloud-foundry-on-gcp) | 2022 |
+| [SpringBoot](https://spring.io/projects/spring-boot) | 2022 
+| [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | 2022 |
+| [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | 2022 |
+| [JUnit](https://github.com/junit-team/junit) | 2021 |
+| [Pig](https://pig.apache.org) | 2021 
+| [Hive](https://hive.apache.org) | 2021 
+| [Log4j](http://logging.apache.org/log4j/2.x/) | 2021 |
+| [J2EE](http://en.wikipedia.org/wiki/Java_Platform_Enterprise_Edition) | 2021 |
+| [LINQ](http://msdn.microsoft.com/en-us/library/bb397926.aspx) | 2020
 | [SOAP](http://en.wikipedia.org/wiki/SOAP) | 2020 |
-| [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | 2020 |
-| [Entity Framework](http://msdn.microsoft.com/en-us/data/ef.aspx) | 2018 |
 | [tidyverse](https://www.tidyverse.org) | 2019 |
+| [Entity Framework](http://msdn.microsoft.com/en-us/data/ef.aspx) | 2018 |
 | [Spring](http://projects.spring.io/spring-framework/) | 2014 |
 | [jQuery](http://jquery.com/) | 2014 |
 | [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) | 2014 |
 | [Jersey](https://jersey.java.net/) | 2014 |
-| [Ant](http://ant.apache.org/) | 2013 |
 | [Maven](http://maven.apache.org/) | 2014 |
 | [Gradle](http://www.gradle.org/) | 2014 |
-| [JMS](http://en.wikipedia.org/wiki/Java_Message_Service) | 2014 |
-| [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | 2014 |
-| [ASP.NET](http://www.asp.net/) | 2010 |
-| [Apache Web Server](http://httpd.apache.org/) | 2011 |
-| [Tomcat](http://tomcat.apache.org/) | 2014 |
-| [IIS](http://www.iis.net/overview) | 2011 |
 | [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) | 2014 |
 | [JENA](https://jena.apache.org/) | 2014 |
-| [J2EE](http://en.wikipedia.org/wiki/Java_Platform_Enterprise_Edition) | 2014 |
-| [JUnit](https://github.com/junit-team/junit) | 2014 |
-| [Mockito](https://code.google.com/p/mockito/) | 2012 |
+| [JMS](http://en.wikipedia.org/wiki/Java_Message_Service) | 2014 |
 | [QUnit](https://qunitjs.com/) | 2014 |
 | [Spock](https://code.google.com/p/spock/) | 2014 |
-| [FlexUnit](https://github.com/flexunit/flexunit) | 2014 |
-| [CakePHP](http://cakephp.org/) | 2014 |
-| [Grizzly](https://grizzly.java.net/) | 2013 |
-| [JAXB](http://www.oracle.com/technetwork/articles/javase/index-140168.html) | 2013 |
-| [Log4j](http://logging.apache.org/log4j/2.x/) | 2014 |
 | [Logback](http://logback.qos.ch/) | 2014 |
 | [Reveal.js](http://lab.hakim.se/reveal-js/#/) | 2014 |
+| [FlexUnit](https://github.com/flexunit/flexunit) | 2014 |
+| [CakePHP](http://cakephp.org/) | 2014 |
+| [Tomcat](http://tomcat.apache.org/) | 2014 |
+| [Grizzly](https://grizzly.java.net/) | 2013 |
+| [JAXB](http://www.oracle.com/technetwork/articles/javase/index-140168.html) | 2013 |
+| [Ant](http://ant.apache.org/) | 2013 |
+| [Mockito](https://code.google.com/p/mockito/) | 2012 |
+| [IIS](http://www.iis.net/overview) | 2011 |
+| [Apache Web Server](http://httpd.apache.org/) | 2011 |
+| [ASP.NET](http://www.asp.net/) | 2010 |
 | [WCF](http://msdn.microsoft.com/en-us/library/ee958158.aspx) | 2010 |
 
 ### Tools
 
-| [Azure Cloud](https://azure.microsoft.com/en-us/) | 2019 |
-| [Power BI](https://powerbi.microsoft.com/en-us/) | 2020 |
-| [Amazon AWS](https://aws.amazon.com) | 2019 |
-| [Tableau](https://www.tableau.com) | 2018 |
-| [Hortonworks Data Platform (HDP)](https://www.cloudera.com/downloads/hdp.html) | 2019 |
-| [Excel + Solver](https://en.wikipedia.org/wiki/Solver) | 2020 |
-| [Erwin](https://erwin.com) | 2018 |
-| [Jupyter Notebook](https://jupyter.org) | 2020 |
-| [SAP Business Objects](https://www.sap.com/products/bi-platform.html) | 2020 |
-| [Eclipse](https://www.eclipse.org/) | 2018 |
-| [IntelliJ IDEA](http://www.jetbrains.com/idea/) | 2014 |
+| Tool | Last Used (Year) |
+|----------|----------------------|
+| [Jenkins](https://www.jenkins.io/) | 2022 |
+| [Kafka](https://kafka.apache.org/) | 2022 |
+| [Terraform](https://www.terraform.io/) | 2022 |
+| [Urban Code Deploy (UCD)](https://www.urbancode.com/product/deploy/) | 2022 |
+| [Talend](https://www.talend.com/) | 2022 |
+| [DataDog](https://www.datadoghq.com/) | 2022 |
+| [Kibana](https://www.elastic.co/kibana/) | 2022 |
+| [Eclipse](https://www.eclipse.org/) | 2022 |
+| [Jupyter Notebook](https://jupyter.org) | 2022 |
+| [Git](http://git-scm.com/) | 2022 |
+| [Subversion (SVN)](https://www.perforce.com/blog/vcs/what-svn) | 2022 |
+| [Microsoft Office](http://en.wikipedia.org/wiki/Microsoft_Office) | 2022 |
+| [SharePoint](http://en.wikipedia.org/wiki/Microsoft_SharePoint) | 2022 |
+| [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) | 2022 |
+| [Hortonworks Data Platform (HDP)](https://www.cloudera.com/downloads/hdp.html) | 2021 |
 | [SQL Server Integration Services (SSIS)](http://en.wikipedia.org/wiki/SQL_Server_Integration_Services) | 2020 |
 | [BIML](https://varigence.com/biml) | 2020 |
-| [SQL Server Reporting Services (SSRS)](http://en.wikipedia.org/wiki/SQL_Server_Reporting_Services) | 2017 |
 | [SQL Server Data Tools (Formerly BIDS)](http://msdn.microsoft.com/en-us/data/tools.aspx) | 2020 |
+| [SAP Business Objects](https://www.sap.com/products/bi-platform.html) | 2020 |
 | [Visual Studio](http://www.visualstudio.com/) | 2020 |
-| [Flash Builder](http://en.wikipedia.org/wiki/Adobe_Flash_Builder) | 2013 |
-| [PhpStorm](http://www.jetbrains.com/phpstorm/) | 2014 |
-| [Gimp](http://www.gimp.org/) | 2020 |
-| [Clover](https://www.atlassian.com/software/clover/overview) | 2014 |
-| [Dreamweaver](http://en.wikipedia.org/wiki/Adobe_Dreamweaver) | 2011 |
-| [Git](http://git-scm.com/) | 2020 |
+| [Power BI](https://powerbi.microsoft.com/en-us/) | 2020 |
 | [Team Foundation Server (TFS)](http://en.wikipedia.org/wiki/Team_Foundation_Server) | 2020 |
 | [SQL Server Management Studio](http://en.wikipedia.org/wiki/SQL_Server_Management_Studio) | 2020 |
-| [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html) | 2014 |
-| [HeidiSQL](http://www.heidisql.com/) | 2015 |
-| [MySQL Workbench](http://www.mysql.com/products/workbench/) | 2009 |
-| [Microsoft Office](http://en.wikipedia.org/wiki/Microsoft_Office) | 2020 |
-| [SharePoint](http://en.wikipedia.org/wiki/Microsoft_SharePoint) | 2019 |
-| [Vim](http://en.wikipedia.org/wiki/Vim_(text_editor)) | 2018 |
+| [Excel + Solver](https://en.wikipedia.org/wiki/Solver) | 2020 |
 | [Google Docs](http://en.wikipedia.org/wiki/Google_Docs) | 2020 |
-| [ActiveMQ](http://activemq.apache.org/) | 2013 |
-| [VMWare](http://www.vmware.com/) | 2014 |
 | [VirtualBox](https://www.virtualbox.org/) | 2020 |
-| [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) | 2014 |
-| [Cygwin](http://www.cygwin.com/) | 2014 |
-| [cURL](http://en.wikipedia.org/wiki/CURL) | 2013 |
-| [Netbeans](https://netbeans.org/) | 2014 |
-| [eCobertura](http://ecobertura.johoop.de/) | 2013 |
-| [TopBraid Composer](http://www.topquadrant.com/tools/IDE-topbraid-composer-maestro-edition/) | 2014 |
+| [Azure Cloud](https://azure.microsoft.com/en-us/) | 2019 |
 | [Google App Engine](http://en.wikipedia.org/wiki/Google_App_Engine) | 2019 |
+| [Tableau](https://www.tableau.com) | 2018 |
+| [Erwin](https://erwin.com) | 2018 |
+| [SQL Server Reporting Services (SSRS)](http://en.wikipedia.org/wiki/SQL_Server_Reporting_Services) | 2017 |
+| [HeidiSQL](http://www.heidisql.com/) | 2015 |
+| [IntelliJ IDEA](http://www.jetbrains.com/idea/) | 2014 |
+| [PhpStorm](http://www.jetbrains.com/phpstorm/) | 2014 |
+| [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html) | 2014 |
+| [Clover](https://www.atlassian.com/software/clover/overview) | 2014 |
+| [VMWare](http://www.vmware.com/) | 2014 |
+| [Cygwin](http://www.cygwin.com/) | 2014 |
+| [Netbeans](https://netbeans.org/) | 2014 |
+| [TopBraid Composer](http://www.topquadrant.com/tools/IDE-topbraid-composer-maestro-edition/) | 2014 |
+| [Flash Builder](http://en.wikipedia.org/wiki/Adobe_Flash_Builder) | 2013 |
+| [eCobertura](http://ecobertura.johoop.de/) | 2013 |
+| [ActiveMQ](http://activemq.apache.org/) | 2013 |
+| [Dreamweaver](http://en.wikipedia.org/wiki/Adobe_Dreamweaver) | 2011 |
+| [MySQL Workbench](http://www.mysql.com/products/workbench/) | 2009 |
 
 
 ## Relevant Courses
