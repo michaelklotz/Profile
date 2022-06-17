@@ -247,6 +247,7 @@
  - \*\*Technical Competencies are listed with the year I last used them in my day-to-day work...
  
 ### Programming Languages 
+
 | Language | Last Used (Year) |
 |----------|----------------------|
 | [Python](http://www.python.org/) | 2022 |
@@ -275,6 +276,7 @@
 | [C++](http://en.wikipedia.org/wiki/C%2B%2B) | 2009 |
 
 ### Platforms & Frameworks
+
 | Platform/Framework | Last Used (Year) |
 |----------|----------------------|
 | [Amazon Web Services (AWS)](https://aws.amazon.com/) | 2022 |
