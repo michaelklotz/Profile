@@ -194,7 +194,7 @@
  - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)
  - <a href="http://michaelklotz.github.io/Michael-Klotz-Profile/Klotz-Data-Driven-Solutions-for-Single-Stream-Recycling-Optimization-Case-Study.pdf" type="application/pdf">Data-Driven Solutions for Single-Stream Recyling Optimization Case Study (Capstone Paper)</a>
-
+ 
 ### Undergraduate
 
 | Institution         | **[University of Wisconsin - Eau Claire](https://www.uwec.edu)**  |
@@ -393,7 +393,7 @@
 |Database Warehousing                                 |Summer 17-18  |A  |
 |Foundations of Data Science                          |Spring 17-18  |A  |
 
-## Undergraduate
+### Undergraduate
 
 |Course Name                                          |Term          |Grade|
 |-----------------------------------------------------|--------------|-----|
