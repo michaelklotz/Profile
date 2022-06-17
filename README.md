@@ -193,7 +193,7 @@
 **Links**
  - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
- - <a href="mklotz-uwec-grad-transcript.pdf" type="application/pdf">Graduate Transcript</a>
+ - <a href="http://michaelklotz.github.io/Michael-Klotz-Profile/mklotz-uwec-grad-transcript.pdf" type="application/pdf">Graduate Transcript</a>
 
 ### Undergraduate
 
@@ -216,8 +216,8 @@
 **Links**
  - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
  - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
- - <a href="mklotz-uwec-undergrad-transcript.pdf" type="application/pdf">Undergrad Transcript</a>
- 
+ - <a href="http://michaelklotz.github.io/Michael-Klotz-Profile/mklotz-uwec-undergrad-transcript.pdf" type="application/pdf">Undergrad Transcript</a>
+
 ## Certificates | Awards | Training
 
 ### Certificates
