@@ -249,50 +249,50 @@
 ### Programming Languages 
 | Language | Last Used (Year) |
 |----------|----------------------|
-| [Python](http://www.python.org/) | 2022
-| [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) | 2022
-| [SQL](http://en.wikipedia.org/wiki/SQL) | 2022
-| [Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) | 2022
-| [PowerShell Scripting](http://en.wikipedia.org/wiki/Windows_PowerShell) | 2022
-| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2022  
-| [R](https://www.r-project.org/) | 2021
-| [XML](http://en.wikipedia.org/wiki/XML) | 2022
-| [JSON](http://en.wikipedia.org/wiki/JSON) | 2022
-| [DOS Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2022
-| [Scala](http://www.scala-lang.org/) | 2020
-| [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2020
-| [HTML / HTML 5](http://en.wikipedia.org/wiki/HTML5) | 2020
-| [PHP](http://php.net/) | 2016
-| [Groovy](http://groovy.codehaus.org/) | 2014
-| [Flex](http://www.adobe.com/products/flex.html) | 2014
-| [ActionScript](http://en.wikipedia.org/wiki/ActionScript) | 2014
-| [JavaScript](http://en.wikipedia.org/wiki/JavaScript) | 2014
-| [CSS / CSS3](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) | 2014
-| [SPARQL](http://en.wikipedia.org/wiki/SPARQL) | 2014
-| [XSLT](http://en.wikipedia.org/wiki/XSLT) | 2013
-| [PERL](http://www.perl.org/) | 2010
-| [Visual Basic](http://en.wikipedia.org/wiki/Visual_Basic) | 2009
-| [C++](http://en.wikipedia.org/wiki/C%2B%2B) | 2009
+| [Python](http://www.python.org/) | 2022 |
+| [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) | 2022 |
+| [SQL](http://en.wikipedia.org/wiki/SQL) | 2022 |
+| [Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) | 2022 |
+| [PowerShell Scripting](http://en.wikipedia.org/wiki/Windows_PowerShell) | 2022 |
+| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2022 |
+| [R](https://www.r-project.org/) | 2021 |
+| [XML](http://en.wikipedia.org/wiki/XML) | 2022 |
+| [JSON](http://en.wikipedia.org/wiki/JSON) | 2022 |
+| [DOS Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2022 |
+| [Scala](http://www.scala-lang.org/) | 2020 |
+| [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2020 |
+| [HTML / HTML 5](http://en.wikipedia.org/wiki/HTML5) | 2020 |
+| [PHP](http://php.net/) | 2016 |
+| [Groovy](http://groovy.codehaus.org/) | 2014 |
+| [Flex](http://www.adobe.com/products/flex.html) | 2014 |
+| [ActionScript](http://en.wikipedia.org/wiki/ActionScript) | 2014 |
+| [JavaScript](http://en.wikipedia.org/wiki/JavaScript) | 2014 |
+| [CSS / CSS3](http://en.wikipedia.org/wiki/Cascading_Style_Sheets) | 2014 |
+| [SPARQL](http://en.wikipedia.org/wiki/SPARQL) | 2014 |
+| [XSLT](http://en.wikipedia.org/wiki/XSLT) | 2013 |
+| [PERL](http://www.perl.org/) | 2010 |
+| [Visual Basic](http://en.wikipedia.org/wiki/Visual_Basic) | 2009 |
+| [C++](http://en.wikipedia.org/wiki/C%2B%2B) | 2009 |
 
 ### Platforms & Frameworks
 | Platform/Framework | Last Used (Year) |
 |----------|----------------------|
-| [Amazon Web Services (AWS)](https://aws.amazon.com/) | 2022 
+| [Amazon Web Services (AWS)](https://aws.amazon.com/) | 2022 |
 | [Databricks](https://databricks.com/) | 2022 |
 | [Snowflake](https://www.snowflake.com/) | 2022 |
-| [PySpark \| Spark](http://spark.apache.org) | 2022 
+| [PySpark \| Spark](http://spark.apache.org) | 2022 |
 | [Hadoop](http://hadoop.apache.org/) | 2022 |
 | [MongoDB](http://www.mongodb.org/) | 2022 |
 | [Pivotal Cloud Foundry (PCF)](https://cloud.google.com/architecture/cloud-foundry-on-gcp) | 2022 |
-| [SpringBoot](https://spring.io/projects/spring-boot) | 2022 
+| [SpringBoot](https://spring.io/projects/spring-boot) | 2022 |
 | [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | 2022 |
 | [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | 2022 |
 | [JUnit](https://github.com/junit-team/junit) | 2021 |
-| [Pig](https://pig.apache.org) | 2021 
-| [Hive](https://hive.apache.org) | 2021 
+| [Pig](https://pig.apache.org) | 2021 |
+| [Hive](https://hive.apache.org) | 2021 |
 | [Log4j](http://logging.apache.org/log4j/2.x/) | 2021 |
 | [J2EE](http://en.wikipedia.org/wiki/Java_Platform_Enterprise_Edition) | 2021 |
-| [LINQ](http://msdn.microsoft.com/en-us/library/bb397926.aspx) | 2020
+| [LINQ](http://msdn.microsoft.com/en-us/library/bb397926.aspx) | 2020 |
 | [SOAP](http://en.wikipedia.org/wiki/SOAP) | 2020 |
 | [tidyverse](https://www.tidyverse.org) | 2019 |
 | [Entity Framework](http://msdn.microsoft.com/en-us/data/ef.aspx) | 2018 |
