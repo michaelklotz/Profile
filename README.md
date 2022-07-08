@@ -30,7 +30,7 @@
 
 ## Work Experience
 
-### Sr. Data Engineer (Tech Lead)
+### Data Engineer II (Tech Lead)
 
 | Employer| **[Travelers Insurance](https://www.travelers.com/)** |
 | Job Function | Cloud Data Engineering, Technical Lead | 
@@ -50,7 +50,7 @@
  - Led agile team by conducting meetings (standup, refinement), creating documentation, and training new team members
 
 
-### IT Sr. Analyst/Programmer
+### IT Sr. Analyst/Programmer (Database Administration, Data Integration)
 
 | Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
 | Job Function | Enterprise Data Warehousing & Database Administration |
