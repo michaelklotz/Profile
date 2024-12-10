@@ -5,7 +5,7 @@
 {:toc}
 
 ## About Me
-- Married, 2 daughters
+- Married, 3 daughters
 - *Interests:* analytics, open source software, alternative operating systems, reading (action, thriller, personal development)
 - *Hobbies:* playing baseball and basketball, hunting, fishing, live music, attending sporting events, sorting and organizing
 - *Places lived:* 
@@ -17,11 +17,11 @@
    - Prescott, WI
 - *Born*: 1989
 
-![klotz family 2022](./klotz-family-2022.jpeg)
+![klotz family 2022](./assets/img/klotz-family-2022.jpeg)
 
 ## Contact Info
- - *Email*: michael@theklotzes.com
- - *LinkedIn*: [https://www.linkedin.com/in/klotzmichael/](https://www.linkedin.com/in/klotzmichael/)
+ - *Email*: `michael@theklotzes.com`
+ - [*LinkedIn Page - Michael Klotz*](https://www.linkedin.com/in/klotzmichael/)
 
 ## Professional Summary
 - Dedicated data engineering professional with ten years' experience designing and maintaining data-driven solutions to complex business problems
@@ -30,13 +30,41 @@
 
 ## Work Experience
 
+### Senior Data Engineer
+
+| Employer | **[Hinge Health](https://www.hingehealth.com/)** |
+| Job Function | Cloud Data Engineering, Data Platform | 
+| Unit | Data Engineering Team |
+| Location | San Francisco, CA (Remote from Prescott, WI) |
+| Dates | Sep 2022 – *Present* |
+
+ - Designed and implemented a CDC framework for Databricks data lake
+ - Developed real-time streaming Kafka pipelines to process member data
+ - Built CI/CD pipelines for PySpark data pipelines with unit and integration tests
+ - Created tools and dashboards to optimize costs by identifying unused AWS/Databricks clusters
+ - Built processes to audit and resolve CDC replication issues and auto-optimize Delta Live Tables workflows
+ - Built custom data ingestions for external APIs (e.g., RingCentral, Verint)
+ - Built external report automation framework to deliver reports to external sftp sites
+ - Developed a generic PySpark framework to write records to API endpoints with rate limiting
+ - Mentored junior team members, authored project documentation, faciliated principal engineer reviews
+ - Migrated Databricks data lake to Unity Catalog with enhanced data governance
+ - Built dynamic views and permission solutions to secure sensitive PHI data
+ - Automated the identification and resync of missing records from PostgreSQL to the data lake
+ - Set up and documented Airflow projects locally with Docker
+ - Wrote tools for memory-efficient Dataflow processing and table migration validation scripts
+ - Designed performance dashboards for real-time Spark streaming pipelines
+ - Built a validation framework with visual diff tools to migrate Databricks data lakes
+ - Administered Fivetran connectors and implemented transformations for third-party integrations
+ - Developed native Databricks unit tests and PySpark modules for quality monitoring
+ - Automated schema migration jobs and fixed schema propagation pipelines to ensure backward compatibility
+
 ### Data Engineer II (Tech Lead)
 
-| Employer| **[Travelers Insurance](https://www.travelers.com/)** |
+| Employer | **[Travelers Insurance](https://www.travelers.com/)** |
 | Job Function | Cloud Data Engineering, Technical Lead | 
 | Unit | Data Foundations, Data Lakers |
 | Location | St. Paul, MN |
-| Dates |  Sep 2020 – *Present* |
+| Dates | Sep 2020 – Sep 2022 |
 
  - Migrated data pipelines from on-premises Hadoop to AWS Cloud
  - Rewrote and refactored workflows using AWS Step Function, Lambda, and Elastic Map Reduce (EMR)
@@ -50,7 +78,7 @@
  - Led agile team by conducting meetings (standup, refinement), creating documentation, and training new team members
 
 
-### IT Sr. Analyst/Programmer (Database Administration, Data Integration)
+### IT Sr. Analyst/Programmer <br/> (Database Administration, Data Integration)
 
 | Employer| **[Mayo Clinic](https://jobs.mayoclinic.org)** |
 | Job Function | Enterprise Data Warehousing & Database Administration |
@@ -193,7 +221,7 @@
 **Links**
  - [UWEX Data Science Official Site](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)  
  - [UWEX Data Science Courses](https://datasciencedegree.wisconsin.edu/data-science-program/data-science-courses/)
- - <a href="http://michaelklotz.github.io/Michael-Klotz-Profile/Klotz-Data-Driven-Solutions-for-Single-Stream-Recycling-Optimization-Case-Study.pdf" type="application/pdf">Data-Driven Solutions for Single-Stream Recyling Optimization Case Study (Capstone Paper)</a>
+ - <a href="http://michaelklotz.github.io/Michael-Klotz-Profile/docs/project_work/Klotz-Data-Driven-Solutions-for-Single-Stream-Recycling-Optimization-Case-Study.pdf" type="application/pdf">Data-Driven Solutions for Single-Stream Recyling Optimization Case Study (Capstone Paper)</a>
  
 ### Undergraduate
 
@@ -209,13 +237,13 @@
  - Programmed detailed applications in Java Runtime Environment as a former computer science major  
  - Used commands to manipulate information from Oracle databases  
  - Designed and reconstructed databases
- - Learned about various applications of information technology as a member of the [Association of Information Technology Professionals](https://uwec.presence.io/organization/association-of-information-technology-professionals)
+ - Learned about various applications of information technology as a member of the Association of Information Technology Professionals
  - Experienced in writing agendas and meeting minutes  
  - Learned to diffuse arguments and help co-workers at Peer Helper Workshop  
 
 **Links**
- - [UWEC Information Systems Home](https://www.uwec.edu/academics/college-business/departments-programs/information-systems/)  
- - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/information-systems/information-systems-comprehensive-major-bba/)
+ - [UWEC Information Systems Home](https://catalog.uwec.edu/undergraduate/business/business-communication-info-systems/)  
+ - [UWEC Information Systems Comprehensive Major Detail](https://catalog.uwec.edu/undergraduate/business/business-communication-info-systems/information-systems-comprehensive-major-bba/)
 
 ## Certificates | Awards | Training
 
@@ -279,21 +307,26 @@
 
 | Platform/Framework | Last Used (Year) |
 |----------|----------------------|
-| [Amazon Web Services (AWS)](https://aws.amazon.com/) | 2022 |
-| [Databricks](https://databricks.com/) | 2022 |
+| [Amazon Web Services (AWS)](https://aws.amazon.com/) | Present |
+| [Databricks](https://databricks.com/) | Present |
+| [PySpark \| Spark](http://spark.apache.org) | Present |
+| [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) | Present |
+| [Airflow](https://airflow.apache.org/) | Present |
+| [PostgreSQL](https://www.postgresql.org/) | Present |
+| [Kubernetes](https://kubernetes.io/docs/concepts/overview/) | Present |
+| [Docker](https://www.docker.com/) | Present |
 | [Snowflake](https://www.snowflake.com/) | 2022 |
-| [PySpark \| Spark](http://spark.apache.org) | 2022 |
 | [Hadoop](http://hadoop.apache.org/) | 2022 |
 | [MongoDB](http://www.mongodb.org/) | 2022 |
 | [Pivotal Cloud Foundry (PCF)](https://cloud.google.com/architecture/cloud-foundry-on-gcp) | 2022 |
 | [SpringBoot](https://spring.io/projects/spring-boot) | 2022 |
-| [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | 2022 |
-| [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | 2022 |
-| [JUnit](https://github.com/junit-team/junit) | 2021 |
+| [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | Present |
+| [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | Present |
+| [JUnit](https://github.com/junit-team/junit) | 2022 |
 | [Pig](https://pig.apache.org) | 2021 |
 | [Hive](https://hive.apache.org) | 2021 |
 | [Log4j](http://logging.apache.org/log4j/2.x/) | 2021 |
-| [J2EE](http://en.wikipedia.org/wiki/Java_Platform_Enterprise_Edition) | 2021 |
+| [J2EE](http://en.wikipedia.org/wiki/Java_Platform_Enterprise_Edition) | 2022 |
 | [LINQ](http://msdn.microsoft.com/en-us/library/bb397926.aspx) | 2020 |
 | [SOAP](http://en.wikipedia.org/wiki/SOAP) | 2020 |
 | [tidyverse](https://www.tidyverse.org) | 2019 |
@@ -327,9 +360,19 @@
 
 | Tool | Last Used (Year) |
 |----------|----------------------|
+| [Github Actions](https://github.com/features/actions) | Present |
+| [Kafka](https://kafka.apache.org/) | Present |
+| [Terraform](https://www.terraform.io/) | Present |
+| [Fivetran](https://www.fivetran.com/) | Present |
+| [Mode](https://mode.com/) | Present |
+| [Debezium](https://debezium.io/) | Present |
+| [dbx](https://docs.databricks.com/en/archive/dev-tools/dbx/dbx.html) | Present |
+| [Qualtrics](https://www.qualtrics.com/) | Present |
+| [Verint](https://www.verint.com/) | Present |
+| [Google Workspace](https://workspace.google.com/) | Present |
+| [Slack](https://slack.com/) | Present |
+| [Aptible](https://www.aptible.com/) | 2024 |
 | [Jenkins](https://www.jenkins.io/) | 2022 |
-| [Kafka](https://kafka.apache.org/) | 2022 |
-| [Terraform](https://www.terraform.io/) | 2022 |
 | [Urban Code Deploy (UCD)](https://www.urbancode.com/product/deploy/) | 2022 |
 | [Talend](https://www.talend.com/) | 2022 |
 | [DataDog](https://www.datadoghq.com/) | 2022 |
@@ -351,7 +394,6 @@
 | [Team Foundation Server (TFS)](http://en.wikipedia.org/wiki/Team_Foundation_Server) | 2020 |
 | [SQL Server Management Studio](http://en.wikipedia.org/wiki/SQL_Server_Management_Studio) | 2020 |
 | [Excel + Solver](https://en.wikipedia.org/wiki/Solver) | 2020 |
-| [Google Docs](http://en.wikipedia.org/wiki/Google_Docs) | 2020 |
 | [VirtualBox](https://www.virtualbox.org/) | 2020 |
 | [Azure Cloud](https://azure.microsoft.com/en-us/) | 2019 |
 | [Google App Engine](http://en.wikipedia.org/wiki/Google_App_Engine) | 2019 |
