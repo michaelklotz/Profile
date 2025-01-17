@@ -278,15 +278,15 @@
 
 | Language | Last Used (Year) |
 |----------|----------------------|
-| [Python](http://www.python.org/) | 2022 |
+| [Python](http://www.python.org/) | Present |
 | [Java](http://en.wikipedia.org/wiki/Java_(programming_language)) | 2022 |
-| [SQL](http://en.wikipedia.org/wiki/SQL) | 2022 |
+| [SQL](http://en.wikipedia.org/wiki/SQL) | Present |
 | [Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) | 2022 |
 | [PowerShell Scripting](http://en.wikipedia.org/wiki/Windows_PowerShell) | 2022 |
-| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | 2022 |
+| [Bash (Unix) Scripting](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) | Present |
 | [R](https://www.r-project.org/) | 2021 |
 | [XML](http://en.wikipedia.org/wiki/XML) | 2022 |
-| [JSON](http://en.wikipedia.org/wiki/JSON) | 2022 |
+| [JSON](http://en.wikipedia.org/wiki/JSON) | Present |
 | [DOS Scripting](http://en.wikipedia.org/wiki/Batch_file) | 2022 |
 | [Scala](http://www.scala-lang.org/) | 2020 |
 | [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2020 |
@@ -323,6 +323,7 @@
 | [RESTful Web Services](http://en.wikipedia.org/wiki/Representational_state_transfer) | Present |
 | [JDBC](http://en.wikipedia.org/wiki/Java_Database_Connectivity) | Present |
 | [JUnit](https://github.com/junit-team/junit) | 2022 |
+| [Pytest](https://docs.pytest.org/en/stable/) | Present |
 | [Pig](https://pig.apache.org) | 2021 |
 | [Hive](https://hive.apache.org) | 2021 |
 | [Log4j](http://logging.apache.org/log4j/2.x/) | 2021 |
@@ -377,6 +378,7 @@
 | [Talend](https://www.talend.com/) | 2022 |
 | [DataDog](https://www.datadoghq.com/) | 2022 |
 | [Kibana](https://www.elastic.co/kibana/) | 2022 |
+| [Poetry](https://python-poetry.org/) | Present
 | [Eclipse](https://www.eclipse.org/) | 2022 |
 | [Jupyter Notebook](https://jupyter.org) | 2022 |
 | [Git](http://git-scm.com/) | 2022 |
@@ -406,8 +408,6 @@
 | [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html) | 2014 |
 | [Clover](https://www.atlassian.com/software/clover/overview) | 2014 |
 | [VMWare](http://www.vmware.com/) | 2014 |
-| [Cygwin](http://www.cygwin.com/) | 2014 |
-| [Netbeans](https://netbeans.org/) | 2014 |
 | [TopBraid Composer](http://www.topquadrant.com/tools/IDE-topbraid-composer-maestro-edition/) | 2014 |
 | [Flash Builder](http://en.wikipedia.org/wiki/Adobe_Flash_Builder) | 2013 |
 | [eCobertura](http://ecobertura.johoop.de/) | 2013 |
